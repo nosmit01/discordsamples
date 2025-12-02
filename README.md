@@ -6,7 +6,7 @@ Selected interactive work samples. Each item links to a short video.
 ### Projects
 
 #### Modern web (React, Leaflet, D3 + SVG)
-- Award‑winning React geo app for Marriott (Gold and Silver Cannes Lions). Built with Leaflet, D3.js, and SVG. Video: [hyp3r3.mp4](https://raw.githubusercontent.com/nosmit01/discordsamples/main/hyp3r3.mp4)
+- Award‑winning React geo app for Marriott (Gold and Silver Cannes Lions). This was later repurposed for LA Fitness, and Norwegian Cruise Lines. Built with Leaflet, D3.js, and SVG. Video: [hyp3r3.mp4](https://raw.githubusercontent.com/nosmit01/discordsamples/main/hyp3r3.mp4)
 
 #### 3D visualization (Three.js)
 - Interactive diagramming built entirely in Three.js. Video: [medidaMetrics.mov](https://raw.githubusercontent.com/nosmit01/discordsamples/main/medidaMetrics.mov)
