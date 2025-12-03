@@ -23,9 +23,11 @@ Selected interactive work samples. Each item links to a short video.
 ### Other things to note:
 I began my career as a designer/UX engineer and gradually transitioned into frontend engineering.
 
+Here are more details about notable projects/ positions from the start of my career to the most recent:
+
 - Ad Engine: Franchise-focused ad agency where I produced animated Flash ads.
 
-- UPS: Along with supervising a team of designers and frontend engineers, I focused on crafting subtle, high‑impact animations. For UPS bicentennial celebration, I built an interactive multimedia gallery showcasing images, videos, and audio submitted by current and former employees; it was repurposed across UPS, including on their NASCAR site.
+- UPS: Along with supervising a team of designers and frontend engineers, I focused on crafting subtle, high‑impact animations. For the company's bicentennial celebration, I built an interactive multimedia gallery showcasing images, videos, and audio submitted by current and former employees; it was repurposed across UPS, including on their NASCAR site.
 
 I also created hundreds of animated ads that ran across major websites, consistently driving high click‑through rates. The examples above are a small sample.
 
