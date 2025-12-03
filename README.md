@@ -27,9 +27,7 @@ Here are more details about notable projects/ positions from the start of my car
 
 - Ad Engine: Franchise-focused ad agency where I produced animated Flash ads.
 
-- UPS: Along with supervising a team of designers and frontend engineers, I focused on crafting subtle, high‑impact animations. For the company's bicentennial celebration, I built an interactive multimedia gallery showcasing images, videos, and audio submitted by current and former employees; it was repurposed across UPS, including on their NASCAR site.
-
-I also created hundreds of animated ads that ran across major websites, consistently driving high click‑through rates. The examples above are a small sample.
+- UPS: Along with supervising a team of designers and frontend engineers, I focused on crafting subtle, high‑impact animations. For the company's bicentennial celebration, I built an interactive multimedia gallery showcasing images, videos, and audio submitted by current and former employees; it was repurposed across UPS, including on their NASCAR site. I also created hundreds of animated ads that ran across major websites, consistently driving high click‑through rates. The examples above are a small sample.
 
 - AT&T: Post‑merger, I refreshed the online help center’s branding and UI, adding intuitive, subtle animated hover effects and page transitions.
 
